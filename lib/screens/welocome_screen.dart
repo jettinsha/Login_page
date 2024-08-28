@@ -48,11 +48,11 @@ class WelocomeScreen extends StatelessWidget {
                 children: [
                   Expanded(
                       child: WecomeButton(
-                    buttonText: 'Sign In',
+                    buttonText: 'Sign In.',
                   )),
                   Expanded(
                       child: WecomeButton(
-                    buttonText: 'Sign Up',
+                    buttonText: 'Sign Up.',
                   )),
                 ],
               ),
